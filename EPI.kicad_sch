@@ -1488,7 +1488,7 @@
 				)
 				(uuid "6f04b1a5-e473-4776-8860-2d584937d21c")
 			)
-			(table_cell "RANGE(100,330,1k)"
+			(table_cell "RANGE(0,100,330,1k)"
 				(exclude_from_sim no)
 				(at 74.93 53.34 0)
 				(size 29.21 2.54)
