@@ -1471,7 +1471,7 @@
 				)
 				(uuid "b01b72bd-da0e-44f8-9064-b749ac0ffc7c")
 			)
-			(table_cell "R1"
+			(table_cell "R2\n"
 				(exclude_from_sim no)
 				(at 54.61 53.34 0)
 				(size 20.32 2.54)
@@ -1505,7 +1505,7 @@
 				)
 				(uuid "8b5386eb-1f2f-4f2f-93e1-58bab7cb93b1")
 			)
-			(table_cell "R2"
+			(table_cell "R1\n"
 				(exclude_from_sim no)
 				(at 54.61 55.88 0)
 				(size 20.32 2.54)
@@ -1522,7 +1522,7 @@
 				)
 				(uuid "21cf67a8-bfab-4f1d-846c-386519c7a504")
 			)
-			(table_cell "1K"
+			(table_cell "0K"
 				(exclude_from_sim no)
 				(at 74.93 55.88 0)
 				(size 29.21 2.54)
@@ -1733,7 +1733,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "0KR"
 			(at 54.61 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2305,7 +2305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "{Range}R"
 			(at 50.8 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
