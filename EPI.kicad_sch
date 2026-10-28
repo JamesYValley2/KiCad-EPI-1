@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "919cd34d-7bd7-4cd7-818c-b4eeed0d9069")
-	(paper "User" 152.4 190.5)
+	(paper "User" 132.08 152.4)
 	(title_block
 		(title "EPI Circuit Diagram")
 		(date "2026-10-21")
@@ -1522,7 +1522,7 @@
 				)
 				(uuid "21cf67a8-bfab-4f1d-846c-386519c7a504")
 			)
-			(table_cell "0K"
+			(table_cell "0R\n"
 				(exclude_from_sim no)
 				(at 74.93 55.88 0)
 				(size 29.21 2.54)
@@ -1733,7 +1733,7 @@
 				)
 			)
 		)
-		(property "Value" "0KR"
+		(property "Value" "0R"
 			(at 54.61 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
